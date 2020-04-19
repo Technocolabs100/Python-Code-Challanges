@@ -25,7 +25,7 @@
 
 * **[Day 1](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%201.md "Day 1 Status")**- ***Question 1-3***
 
-* **[Day 2](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%202.md "Day 2 Status")**- ***Question 4-9***
+* **[Day 2](https://github.com/Technocolabs100/Python Code Challenges/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%202.md "Day 2 Status")**- ***Question 4-9***
 
 * **[Day 3](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day%203.md "Day 3 Status")**- ***Question 10-13***
 
